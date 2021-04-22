@@ -1,5 +1,5 @@
 ### I'm Diego Cruz 👋
-- 🔭 I’m currently working on **Linx Digital** full remote
+- 🔭 I’m currently working on **Linx Digital** full remote as Full-Stack Developer
 - ⚙️ I use daily: `linux`, `.JS`,
 - 🌱 I’m currently learning Javascript in my personal projects. `.Node`,`.React`,`.React Native`,`.HTML`, `.CSS`, `.MongoDB`,
 
