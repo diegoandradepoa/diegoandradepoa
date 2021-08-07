@@ -1,6 +1,6 @@
 ### I'm Diego Cruz 👋
 - 🔭 I’m currently working on **Stone** full remote as Full-Stack Developer
-- ⚙️ I use daily: `linux`, `.JS`
+- ⚙️ I use daily: `linux`, `.Javascript`
 - 🌱 I’m currently learning Javascript in my personal projects. `.Node`,`.React`,`.React Native` and also `.HTML`, `.CSS`, `.MongoDB`, `SQLServer`
 
 #
