@@ -1,7 +1,7 @@
 ### I'm Diego Cruz 👋
 - 🔭 I’m currently working on **Stone** full remote as Full-Stack Developer
 - ⚙️ I use daily: `linux`, `.JS`,
-- 🌱 I’m currently learning Javascript in my personal projects. `.Node`,`.React`,`.React Native` and also `.HTML`, `.CSS`, `.MongoDB`,
+- 🌱 I’m currently learning Javascript in my personal projects. `.Node`,`.React`,`.React Native` and also `.HTML`, `.CSS`, `.MongoDB`, `SQLServer`,
 
 #
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-andrade-cruz-1644b059/)](https://www.linkedin.com/in/diego-andrade-cruz-1644b059/)
