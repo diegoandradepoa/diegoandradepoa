@@ -1,7 +1,7 @@
 ### I'm Diego Cruz 👋
-- 🔭 I’m currently working on **Stone/Linx** full remote as Full-Stack Developer
-- ⚙️ I use daily: `linux`, `.Javascript`, `ASP.NET`, `C#` and `SQL`.
-- 🌱 I’m currently learning Javascript and .NET in my personal projects. `.C#, .Node`,`.React`,`.React Native` and also `.HTML`, `.CSS`, `.MongoDB`, `SQLServer`,`MySQL`and `Firebase`
+- 🔭 I’m currently working on ....
+- ⚙️ I use daily: `ASP.NET`, `C#`, `SQL`and 'PostgreSQL'
+- 🌱 I’m currently learning .NET in my personal projects.
 
 #
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-andrade-cruz-1644b059/)](https://www.linkedin.com/in/diego-andrade-cruz-1644b059/)
