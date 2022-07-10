@@ -1,6 +1,6 @@
 ### I'm Diego Cruz 👋
-- 🔭 I’m currently working on ....
-- ⚙️ I use daily: `ASP.NET`, `C#`, `SQL`and 'PostgreSQL'
+- 🔭 I’m currently working on Axysweb
+- ⚙️ I use daily: `ASP.NET MVC`,`WebForms`, `C#`, `SQL`and 'PostgreSQL'
 - 🌱 I’m currently learning .NET in my personal projects.
 
 #
