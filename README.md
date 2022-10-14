@@ -1,5 +1,5 @@
 ### I'm Diego Cruz 👋
-- 🔭 I’m currently working Remote on Axysweb
+- 🔭 I’m currently working Remote on IBM
 - ⚙️ I use daily: `ASP.NET MVC`,`WebForms`, `C#`, `SQL`
 - 🌱 I’m currently learning .NET in my personal projects.
 
