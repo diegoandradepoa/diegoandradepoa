@@ -1,6 +1,6 @@
 ### I'm Diego Cruz 👋
 - 🔭 I’m currently working Remote on IBM
-- ⚙️ I use daily: `ASP.NET MVC`,`WebForms`, `C#`, `SQL`
+- ⚙️ I use daily: `NET`, `C#`, `SQL`
 - 🌱 I’m currently learning .NET in my personal projects.
 
 #
