@@ -1,5 +1,5 @@
 ### I'm Diego Cruz 👋
-- 🔭 I’m currently working Remote as a .NET Developer on IBM
+- 🔭 I’m currently working remote as a .NET Developer on IBM
 - ⚙️ I use daily: `NET`, `C#`, `SQL`, `MYSQL` and `Angular`
 - 🌱 I’m currently learning .NET in my personal projects.
 
