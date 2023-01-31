@@ -1,6 +1,6 @@
 ### I'm Diego Cruz 👋
 - 🔭 I’m currently working Remote on IBM
-- ⚙️ I use daily: `NET`, `C#`, `SQL`, `MYSQL` and Angular
+- ⚙️ I use daily: `NET`, `C#`, `SQL`, `MYSQL` and `Angular`
 - 🌱 I’m currently learning .NET in my personal projects.
 
 #
