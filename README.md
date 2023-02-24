@@ -1,7 +1,7 @@
 ### I'm Diego Cruz 👋
-- 🔭 I’m currently working remote as a .NET Developer on IBM
+- 🔭 I’m currently looking for new oportunities
 - ⚙️ I use daily: `NET`, `C#`, `SQL`, `MYSQL` and `Angular`
-- 🌱 I’m currently learning .NET in my personal projects.
+- 🌱 I’m currently learning .NET with SQL in my personal projects.
 
 #
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoandradecruz/)](https://www.linkedin.com/in/diegoandradecruz/)
