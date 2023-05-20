@@ -1,6 +1,6 @@
 ### I'm Diego Cruz 👋
 - 🔭 I’m currently looking for new oportunities
-- ⚙️ I use daily: `NET`, `C#`, `SQL`, `MYSQL` and `Angular`
+- ⚙️ I use daily: `NET`, `C#`, `SQL`, `MYSQL`
 - 🌱 I’m currently learning .NET with SQL in my personal projects.
 
 #
