@@ -1,6 +1,6 @@
 ### I'm Diego Cruz 👋
-- 🔭 I’m currently working in Processor
-- ⚙️ I use daily: `NET`, `C#`, `SQL Server`, `MYSQL`, `API` and `Windows Forms with Telerik`
+- 🔭 I’m currently working at Processor Company
+- ⚙️ I use daily: `NET`, `C#`, `SQL Server`, `MYSQL`, `API`, Mobile, and `Windows Forms with Telerik`
 - 🌱 I’m currently learning .NET with SQL in my personal projects.
 
 #
